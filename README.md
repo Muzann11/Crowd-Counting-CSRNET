@@ -58,11 +58,3 @@ Untuk mengatasi limitasi saat ini, pengembangan selanjutnya akan difokuskan pada
 2.  **Real-time Edge Optimization:** Kompresi model (Quantization) agar dapat berjalan *real-time* pada perangkat CCTV/IoT.
 
 ---
-
-## 👥 Tim Pengembang
-**Kelompok [Nomor Kelompok/Nama Tim]**
-* [Nama Anggota 1] - [NIM]
-* [Nama Anggota 2] - [NIM]
-
----
-*Dibuat untuk memenuhi tugas akhir semester PCD & Viskom 2025.*
