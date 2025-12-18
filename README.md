@@ -4,8 +4,8 @@
 
 ---
 
-## 🖼️ Poster
-![Final Project Poster][Uploading crowd counting poster.png]
+## 🖼️ Project Poster
+![Final Project Poster](crowd%20counting%20poster.png)
 
 
 ---
